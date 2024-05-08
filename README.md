@@ -1,2 +1,2 @@
 # gmc-projects
-GOMYCODE Lab Phase projects
+GOMYCODE Python Lab Phase projects
